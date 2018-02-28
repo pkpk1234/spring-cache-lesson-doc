@@ -18,7 +18,7 @@
 7. Spring Cache 配置客制化
 8. Spring Cache Redis
 9. Spring Cache Hazelcast
-10. 要缓存的数据的序列化--放后面
+10. 要缓存的数据的序列化
 11. 
 
 
