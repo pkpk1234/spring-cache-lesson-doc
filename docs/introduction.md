@@ -15,8 +15,11 @@
    1. 从系统架构上画
 5. Spring Cache工程搭建
 6. Spring Cache注解详解
-7. 要缓存的数据的序列化--放后面
-8. 缓存的数据超过G时，不应该再放Heap中，优先放本地内存 -- 放后面，加证明
+7. Spring Cache 配置客制化
+8. Spring Cache Redis
+9. Spring Cache Hazelcast
+10. 要缓存的数据的序列化--放后面
+11. 缓存的数据超过G时，不应该再放Heap中，优先放本地内存 -- 放后面，加证明
 
 
 
