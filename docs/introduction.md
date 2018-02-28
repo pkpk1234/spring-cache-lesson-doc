@@ -19,7 +19,6 @@
 8. Spring Cache Redis
 9. Spring Cache Hazelcast
 10. 要缓存的数据的序列化--放后面
-11. 缓存的数据超过G时，不应该再放Heap中，优先放本地内存 -- 放后面，加证明
-
+11. 
 
 
