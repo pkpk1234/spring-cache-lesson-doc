@@ -19,6 +19,7 @@
 8. Spring Cache Redis
 9. Spring Cache Hazelcast
 10. 要缓存的数据的序列化
-11. 
+11. Spring Cache原理
+
 
 
