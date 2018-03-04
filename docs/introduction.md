@@ -19,7 +19,8 @@
 8. Spring Cache Redis
 9. Spring Cache Hazelcast
 10. 序列化注意点
-11. Spring Cache原理
+11. 缓存可能遇到的问题：
+12. Spring Cache原理
 
 
 
