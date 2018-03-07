@@ -19,8 +19,13 @@
 8. Spring Cache Redis
 9. Spring Cache Hazelcast
 10. 序列化注意点
-11. 缓存可能遇到的问题：缓存雪崩、缓存穿透 —— Spring Cache中是否可以解决？如果可以，如何解决？
-12. Spring Cache原理
+11. 缓存回收策略
+    1. 基于空间
+    2. 基于时间
+    3. 基于对象引用类型
+12. 缓存回收算法
+13. 缓存可能遇到的问题：缓存雪崩、缓存穿透 —— Spring Cache中是否可以解决？如果可以，如何解决？
+14. Spring Cache原理
 
 
 
