@@ -29,11 +29,12 @@
     2. 基于时间
     3. 基于对象引用类型
 12. 缓存回收算法：FIFO、LRU、LFU
-13. 缓存可能遇到的问题：
+13. 缓存模式：Cache-Aside、Cache-As-SoR
+14. 缓存可能遇到的问题：
     1. 缓存雪崩
     2. 缓存穿透：NULL Cache
-14. 缓存开关：使用ThreadLocal的方式设置一个开关
-15. Spring Cache原理
+15. 缓存开关：使用ThreadLocal的方式设置一个开关
+16. Spring Cache原理
 
 
 
