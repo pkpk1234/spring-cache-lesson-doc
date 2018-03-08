@@ -22,20 +22,21 @@
 5. Spring Cache工程搭建
 6. Spring Cache注解详解
 7. Spring Cache 配置客制化
-8. Spring Cache Redis
-9. Spring Cache Hazelcast
-10. 序列化注意点
-11. 缓存回收策略
+8. Spring Cache扩展点
+9. Spring Cache Redis
+10. Spring Cache Hazelcast
+11. 序列化注意点
+12. 缓存回收策略
     1. 基于空间
     2. 基于时间
     3. 基于对象引用类型
-12. 缓存淘汰算法：FIFO、LRU、LFU
-13. 缓存模式：Cache-Aside、Cache-As-SoR
-14. 缓存可能遇到的问题：
+13. 缓存淘汰算法：FIFO、LRU、LFU
+14. 缓存模式：Cache-Aside、Cache-As-SoR
+15. 缓存可能遇到的问题：
     1. 缓存雪崩
     2. 缓存穿透：NULL Cache
-15. 缓存开关：使用ThreadLocal的方式设置一个开关
-16. Spring Cache原理
+16. 缓存开关：使用ThreadLocal的方式设置一个开关
+17. Spring Cache原理
 
 
 
