@@ -10,7 +10,9 @@
       1. 快速
       2. 高效
       3. 可扩展
-2. 缓存的类型
+2. 应用缓存：
+   1. 
+3. 应用缓存的类型
    1. 本地缓存
       1. 堆缓存：缓存和应用同时存在于同一个堆中。
       2. 堆外缓存：缓存缓存在同一台物理机的内存中，但是和应用不在同一个堆中。
@@ -20,30 +22,30 @@
    3. 使用方式：
       1. 本地：最常用数据放堆缓存，次常用放堆外缓存
       2. 分布式：最常用数据放堆缓存，次常用放堆外缓存，所有的数据都可以放入分布式缓存
-3. 缓存哪些数据
+4. 缓存哪些数据
    1. 修改很少、直接读取代价较高的数据
    2. 在系统运行过程中，监控数据缓存情况，根据实践情况调整缓存的数据的范围。
       1. 监控缓存命中率，将命中率很低的数据从缓存范围中移出去。
-4. 可以在系统的那一层添加缓存
+5. 可以在系统的那一层添加缓存
    1. 从系统架构上画
-5. Spring Cache工程搭建
-6. Spring Cache注解详解
-7. Spring Cache 配置客制化
-8. Spring Cache扩展点
-9. Spring Cache Redis
-10. Spring Cache Hazelcast
-11. 序列化注意点
-12. 缓存回收策略
+6. Spring Cache工程搭建
+7. Spring Cache注解详解
+8. Spring Cache 配置客制化
+9. Spring Cache扩展点
+10. Spring Cache Redis
+11. Spring Cache Hazelcast
+12. 序列化注意点
+13. 缓存回收策略
     1. 基于空间
     2. 基于时间
     3. 基于对象引用类型
-13. 缓存淘汰算法：FIFO、LRU、LFU
-14. 缓存模式：Cache-Aside、Cache-As-SoR
-15. 缓存可能遇到的问题：
+14. 缓存淘汰算法：FIFO、LRU、LFU
+15. 缓存模式：Cache-Aside、Cache-As-SoR
+16. 缓存可能遇到的问题：
     1. 缓存雪崩
     2. 缓存穿透：NULL Cache
-16. 缓存开关：使用ThreadLocal的方式设置一个开关
-17. Spring Cache原理
+17. 缓存开关：使用ThreadLocal的方式设置一个开关
+18. Spring Cache原理
 
 
 
